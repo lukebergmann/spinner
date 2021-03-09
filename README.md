@@ -1,0 +1,1 @@
+Created a setTimeOut(() => {}) that creates a mock spinner wheel in the terminal. By using \r it will replace each character in the same spot to fake an animation. 
