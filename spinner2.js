@@ -17,7 +17,7 @@ spinner(["|", "/", "-", "\\", "|", "/", "-","\\", "|"]);
 //   process.stdout.write('\r/   ');c
 // }, 200);
 
-// setTimeout(() => {
+// setTimeout(() =cx> {
 //   process.stdout.write('\r-   ');
 // }, 300);
 
